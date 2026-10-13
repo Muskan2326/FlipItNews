@@ -1,0 +1,26 @@
+{
+  "shape": [
+    2225,
+    4
+  ],
+  "columns": [
+    "category",
+    "filename",
+    "title",
+    "content"
+  ],
+  "missing_values": {
+    "category": 0,
+    "filename": 0,
+    "title": 0,
+    "content": 0
+  },
+  "duplicate_rows": 0,
+  "category_counts": {
+    "sport": 511,
+    "business": 510,
+    "politics": 417,
+    "tech": 401,
+    "entertainment": 386
+  }
+}
